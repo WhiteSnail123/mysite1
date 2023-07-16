@@ -41845,20 +41845,24 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-group-1 {
-    min-height: 99px;
+    min-height: 126px;
+  }
+
+  .u-header .u-container-layout-1 {
+    padding-top: 0;
   }
 
   .u-header .u-text-1 {
     font-size: 1.875rem;
     width: auto;
-    margin-top: 0;
+    margin-top: 17px;
     margin-left: 88px;
   }
 
   .u-header .u-image-1 {
     width: 88px;
     height: 88px;
-    margin-top: -96px;
+    margin-top: -94px;
   }
 }
  .u-footer {
